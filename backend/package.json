@@ -1,0 +1,11 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "Backend service to the goNaturalist application",
+  "main": "server.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Kai G. Vilbig",
+  "license": "MIT"
+}
